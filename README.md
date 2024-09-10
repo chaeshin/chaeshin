@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently developing **web application**(personal projects) that streamlines my daily tasks and routines. See the most recent project <a href="https://github.com/chaeshin/form_calisthenics_app" target="_blank" rel="noreferrer">**Form-Calisthenics App**</a>
-- 🌱 I’m currently learning **Python and C#.** Trained as an architectural designer, I used complex 3D software like Revit and Rhino, which support plugins and scripting with Python or C#. I am interested in exploring what programming can bring to the Architecture and design fields.
+- 🌱 I’m currently learning **Python.** Trained as an architectural designer, I used complex 3D software like Revit and Rhino, which support plugins and scripting with Python or C#. I am interested in exploring what programming can bring to the Architecture and design fields.
 - 🍞 In my freetime, I bake **sourdough bread.**
 
 
