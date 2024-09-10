@@ -8,7 +8,7 @@
 
 
 <h5 align="left">Languages and Tools:</h5>
-<p align="left">Back-end: 
+<p align="left" style="text-decoration-none">Back-end: 
   <a href="https://www.ruby-lang.org/en/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg' alt='ruby' height='30'> </a>
   <a href="https://rubyonrails.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg' alt='rubyonrails' height='30'> </a> 
   <a href="https://www.python.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='30'> </a> 
