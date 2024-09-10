@@ -11,7 +11,7 @@
 <p align="left">Backend: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='Heroku' height='30'>](https://heroku.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='heroku' height='30'>](https://heroku.com)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">Frontend: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/CSS3.svg' alt='CSS3' height='30'>](https://www.w3schools.com/css/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/HTML5.svg' alt='HTML5' height='30'>](https://www.w3.org/html/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='CSS3' height='30'>](https://www.w3schools.com/css/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='HTML5' height='30'>](https://www.w3.org/html/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">Tools: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Git.svg' alt='Git' height='30'>](https://git-scm.com/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='Git' height='30'>](https://git-scm.com/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
