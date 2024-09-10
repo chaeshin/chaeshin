@@ -8,26 +8,46 @@
 
 
 <h5 align="left">Languages and Tools:</h5>
-<p align="left"> 
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>(https://getbootstrap.com)  
+<p align="left">Backend: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='Heroku' height='30'>](https://heroku.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+</p>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="css3.svg" alt="css3" width="30" height="30"/> 
-  </a> 
+<p align="left">Frontend: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/CSS3.svg' alt='CSS3' height='30'>](https://www.w3schools.com/css/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/HTML5.svg' alt='HTML5' height='30'>](https://www.w3.org/html/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+</p>
+
+<p align="left">Tools: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Git.svg' alt='Git' height='30'>](https://git-scm.com/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+</p>
+
+<p align="left">Others: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Adobe Photoshop.svg' alt='Adobe-Photoshop' height='30'>](https://www.adobe.com/products/photoshop.html)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+</p>
   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-  </a> 
-  
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> 
-  </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-  </a> 
   
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> 
@@ -69,4 +89,4 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
   </a> 
   
-</p>
+
