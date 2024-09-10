@@ -10,12 +10,8 @@
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com)  
-
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="http://www.w3.org/2000/svg" alt="bootstrap" width="30" height="30"/>
-  </a> 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>(https://getbootstrap.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="css3.svg" alt="css3" width="30" height="30"/> 
