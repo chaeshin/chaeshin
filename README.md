@@ -9,16 +9,12 @@
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
 
-<script src="
-https://cdn.jsdelivr.net/npm/simple-icons@13.9.0/index.min.js
-"></script>
-
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="http://www.w3.org/2000/svg" alt="bootstrap" width="30" height="30"/>
   </a> 
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
+    <img src="css3.svg" alt="css3" width="30" height="30"/> 
   </a> 
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
