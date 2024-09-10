@@ -38,10 +38,13 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 </p>
 
+
+
+
 <p align="left">Others: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Adobe Photoshop.svg' alt='Adobe-Photoshop' height='30'>](https://www.adobe.com/products/photoshop.html)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='Adobe-Photoshop' height='30'>](https://www.adobe.com/products/photoshop.html)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
