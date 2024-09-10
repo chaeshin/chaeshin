@@ -11,7 +11,7 @@
 <p align="left">Backend: 
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='heroku' height='30'>(https://heroku.com)
-
+<a href="https://heroku.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='heroku' height='30'></a>
 </p>
 
 <p align="left">Frontend: 
