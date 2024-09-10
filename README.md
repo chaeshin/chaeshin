@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Chae 👩‍💻 </h1>
-<h4 align="center">A curious full-stack engineer currently based in Tokyo</h4>
+<h4>I am a curious full-stack engineer with background in Architecture who is currently based in Tokyo</h4>
 
 
 
-- 🔭 I’m currently working on **some personal projects**
-- 🌱 I’m currently learning **Python and C#**
+- 🔭 I’m currently developing **web application**(some personal projects) that streamlines my daily tasks and routines. 
+- 🌱 I’m currently learning **Python and C#.** Trained as an architectural designer, I used complex 3D software like Revit and Rhino, which support plugins and scripting with Python or C#. I am interested in exploring what programming can bring to the Architecture and design fields. 
 
-<h5 align="left">Connect with me:</h5>
+<h5 align="left">Find me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/chae-shin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chae-shin" height="20" width="30" /></a>
 </p>
