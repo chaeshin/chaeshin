@@ -1,10 +1,11 @@
-<h1 align="center">Hello, I'm Chae 👩‍💻 </h1>
+<h1>Hello, I'm Chae 👩‍💻 </h1>
 <h4>I am a curious full-stack engineer with background in Architecture who is currently based in Tokyo.</h4>
 
 
 
 - 🔭 I’m currently developing **web application**(some personal projects) that streamlines my daily tasks and routines. 
-- 🌱 I’m currently learning **Python and C#.** Trained as an architectural designer, I used complex 3D software like Revit and Rhino, which support plugins and scripting with Python or C#. I am interested in exploring what programming can bring to the Architecture and design fields. 
+- 🌱 I’m currently learning **Python and C#.** Trained as an architectural designer, I used complex 3D software like Revit and Rhino, which support plugins and scripting with Python or C#. I am interested in exploring what programming can bring to the Architecture and design fields.
+- 🍞 In my freetime, I **bake sourdough bread.**
 
 <h5 align="left">Find me:</h5>
 <p align="left">
