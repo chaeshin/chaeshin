@@ -8,7 +8,8 @@
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
-  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON SLUG].svg" />
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="http://www.w3.org/2000/svg" alt="bootstrap" width="30" height="30"/>
   </a> 
