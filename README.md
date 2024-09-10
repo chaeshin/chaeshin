@@ -9,13 +9,9 @@
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left">Backend: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='heroku' height='30'>](https://heroku.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='heroku' height='30'>(https://heroku.com)
+
 </p>
 
 <p align="left">Frontend: 
