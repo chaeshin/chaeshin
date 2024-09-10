@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Chae 👩‍💻 </h1>
-<h4>I am a curious full-stack engineer with background in Architecture who is currently based in Tokyo</h4>
+<h4>I am a curious full-stack engineer with background in Architecture who is currently based in Tokyo.</h4>
 
 
 
