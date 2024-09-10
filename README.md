@@ -9,67 +9,36 @@
 
 <h5 align="left">Languages and Tools:</h5>
 <p align="left">Back-end: 
-  <a href="https://www.ruby-lang.org/en/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg' alt='ruby' height='30'></a> 
-  <a href="https://rubyonrails.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg' alt='rubyonrails' height='30'></a> 
-  <a href="https://www.python.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='30'></a> 
-  <a href="https://heroku.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Heroku.svg' alt='heroku' height='30'></a>
+  <a href="https://www.ruby-lang.org/en/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg' alt='ruby' height='30'> </a>
+  <a href="https://rubyonrails.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg' alt='rubyonrails' height='30'> </a> 
+  <a href="https://www.python.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='30'> </a> 
+  <a href="https://heroku.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg' alt='heroku' height='30'> </a>
 </p>
 
 <p align="left">Front-end: 
-  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='CSS3' height='30'></a> 
-  <a href="https://www.w3.org/html/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='HTML5' height='30'></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='Bootstrap' height='30'>](https://getbootstrap.com) 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='30'> </a> 
+  <a href="https://stimulus.hotwired.dev/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stimulus.svg' alt='stimulus' height='30'> </a> 
+  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='CSS3' height='30'> </a> 
+  <a href="https://www.w3.org/html/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='HTML5' height='30'> </a>
+  <a href="https://react.dev/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='30'> </a>
 </p>
 
-
 <p align="left">DB: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='Git' height='30'>](https://git-scm.com/) 
-
+  <a href="https://www.postgresql.org"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='30'> </a>
+  <a href="https://https://www.sqlite.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sqlite' height='30'> </a>
 </p>
 
 <p align="left">Tools: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='Git' height='30'>](https://git-scm.com/) 
- 
+  <a href="https://git-scm.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='30'> </a>
+  <a href="https://postman.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg' alt='postman' height='30'> </a>
 </p>
-
 
 <p align="left">Others: 
-  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodeskrevit.svg' alt='Revit' height='30'></a>
-  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rhinoceros.svg' alt='Rhinoceros' height='30'></a>
-  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autocad.svg' alt='AutoCAD' height='30'></a>
-  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='Adobe-Photoshop' height='30'></a>
-  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='Adobe-Illustrator' height='30'></a>
-  <a href="https://www.w3schools.com/css/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg' alt='Adobe-InDesign' height='30'></a>
+  <a href="https://www.rhino3d.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rhinoceros.svg' alt='Rhinoceros' height='30'> </a>
+  <a href="https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodeskrevit.svg' alt='Revit' height='30'> </a>
+  <a href="https:https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/autodeskautocad.svg' alt='AutoCAD' height='30'></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='Adobe-Photoshop' height='30'> </a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='Adobe-Illustrator' height='30'> </a>
+  <a href="https://www.adobe.com/products/indesign.html"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeindesign.svg' alt='Adobe-InDesign' height='30'> </a>
 </p>
   
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  </a> 
-  
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
-  </a> 
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
-  </a> 
-  
-
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-  </a> 
-  
- 
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
-  </a> 
-  
-
