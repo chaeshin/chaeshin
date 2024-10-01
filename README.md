@@ -1,14 +1,14 @@
 <h1>Hello, I'm Chae 🦋 </h1>
-<h4>I am a curious full-stack engineer with background in Architecture who is currently based in Tokyo.</h4>
+<h4>I am a curious full-stack engineer with a background in Architecture who is currently based in Tokyo.</h4>
 
 
-🔭 I’m currently developing **web application**(personal projects) that streamlines my daily tasks and routines. See the most recent app <a href="https://github.com/chaeshin/form-calisthenics" target="_blank" rel="noreferrer">**Form-Calisthenics**</a> I worked on with my team at Le Wagon Tokyo.
+🔭 I’m currently developing **web applications** (personal projects) that streamline my daily tasks and routines. See the most recent app <a href="https://github.com/chaeshin/form-calisthenics" target="_blank" rel="noreferrer">**Form-Calisthenics**</a> I worked on with my team at Le Wagon Tokyo.
 </br>
 </br>
 🌱 I’m currently learning **Python.** Trained as an architectural designer, I used complex 3D software like Revit and Rhino, which support plugins and scripting with Python or C#. I am also interested in exploring what programming can bring to the Architecture and design fields.
 </br>
 </br>
-🍞 In my freetime, I bake **sourdough bread.**
+🍞 In my free time, I bake **sourdough bread.**
 </br>
 </br>
 
